@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "e9c5c42b0b60c505",
+        "id": "52917d27ec1d0ff6",
         "type": "tabs",
         "children": [
           {
-            "id": "3cd4f3b3766074fb",
+            "id": "bb32b01ca79411e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第二章——数据结构/查找和排序.md",
+                "file": "第12章——网络安全/网络安全.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "查找和排序"
+              "title": "网络安全"
+            }
+          },
+          {
+            "id": "4771b6cc94fa34f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第7章——程序设计语言基础知识/知识.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "知识"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +55,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -189,44 +204,54 @@
       "bases:新建数据库": false
     }
   },
-  "active": "3cd4f3b3766074fb",
+  "active": "4771b6cc94fa34f7",
   "lastOpenFiles": [
-    "第四章——操作系统/进程.md",
-    "第四章——操作系统/assets/期末PPT最新模版-操作系统-进程管理 1.pdf",
-    "第四章——操作系统/概念.md",
-    "第四章——操作系统/assets/1.期末PPT最新模版-操作系统-系统概述(1) 1.pdf",
-    "第四章——操作系统/assets/期末PPT最新模版-操作系统-进程管理.pdf",
-    "第四章——操作系统/assets/Pasted image 20261019110703.png",
-    "第四章——操作系统/assets/Pasted image 20261019110512.png",
-    "第四章——操作系统/assets/1.期末PPT最新模版-操作系统-系统概述(1).pdf",
-    "第四章——操作系统/assets/期末PPT最新模版-操作系统-文件系统管理.pdf",
-    "第四章——操作系统/assets/期末PPT最新模版-操作系统-内存管理.pdf",
-    "第四章——操作系统/assets/期末PPT最新模版-操作系统-IO设备管理.pdf",
-    "第四章——操作系统/assets/Pasted image 20261019104801.png",
-    "第四章——操作系统/assets/Pasted image 20261019104401.png",
-    "第四章——操作系统/assets/Pasted image 20261019102339.png",
-    "第四章——操作系统/assets/Pasted image 20261019102226.png",
-    "第四章——操作系统/assets",
-    "第一章——计算机组成原理/存储系统.md",
-    "第四章——操作系统",
-    "第三章——算法/动态规划法.md",
-    "第三章——算法/assets/Pasted image 20261019101331.png",
-    "第三章——算法/assets/Pasted image 20261019100848.png",
-    "第三章——算法/贪心算法.md",
-    "第三章——算法/分治法.md",
-    "第三章——算法/assets/Pasted image 20261019095838.png",
-    "第三章——算法/回溯法.md",
-    "第三章——算法/assets/Pasted image 20261019095335.png",
-    "第三章——算法/assets",
-    "第二章——数据结构/查找和排序.md",
-    "第二章——数据结构/树和二叉树还有图.md",
-    "第二章——数据结构/广义表.md",
-    "第二章——数据结构/线性表.md",
-    "第二章——数据结构/数据结构及算法基础.md",
-    "第一章——计算机组成原理/数值转换.md",
-    "第一章——计算机组成原理/输入输出技术.md",
-    "第一章——计算机组成原理/计算机内数据的表示.md",
-    "第一章——计算机组成原理/考试内容.md",
-    "第一章——计算机组成原理/计算机系统组成.md"
+    "第6章——数据库/关系数据库的规范化.md",
+    "第6章——数据库/关系代数.md",
+    "第6章——数据库/基本概念.md",
+    "第5章——计算机网络基础/考纲.md",
+    "第4章——操作系统/IO管理.md",
+    "第4章——操作系统/文件管理.md",
+    "第4章——操作系统/存储管理.md",
+    "第4章——操作系统/进程.md",
+    "第4章——操作系统/概念.md",
+    "第3章——算法/Pasted image 20261021180915.png",
+    "第3章——算法/回溯法.md",
+    "第3章——算法/贪心算法.md",
+    "第3章——算法/动态规划法.md",
+    "第3章——算法/分治法.md",
+    "第2章——数据结构/示意图.canvas",
+    "第2章——数据结构/查找和排序.md",
+    "第2章——数据结构/树和二叉树还有图.md",
+    "第2章——数据结构/广义表.md",
+    "第2章——数据结构/线性表.md",
+    "第2章——数据结构/数据结构及算法基础.md",
+    "刷题知识（基于软考通）/第一章.md",
+    "第1章——计算机组成原理/计算机系统组成.md",
+    "第1章——计算机组成原理/计算机内数据的表示.md",
+    "第1章——计算机组成原理/数值转换.md",
+    "第10章——UML建模（下午3题）/关系.md",
+    "第10章——UML建模（下午3题）/知识.md",
+    "第10章——UML建模（下午3题）/事物.md",
+    "已复习.md",
+    "刷题知识（基于软考通）",
+    "第13章——法律法规和标准化/assets/Pasted image 20261021184346.png",
+    "第13章——法律法规和标准化/assets/Pasted image 20261021184312.png",
+    "第13章——法律法规和标准化/assets/Pasted image 20261021184221.png",
+    "第13章——法律法规和标准化/assets/Pasted image 20261021184117.png",
+    "第13章——法律法规和标准化/assets/Pasted image 20261021183933.png",
+    "第13章——法律法规和标准化/assets/Pasted image 20261021183756.png",
+    "第13章——法律法规和标准化/assets/Pasted image 20261021183417.png",
+    "第13章——法律法规和标准化/assets/Pasted image 20261021183057.png",
+    "第13章——法律法规和标准化/assets/Pasted image 20261021183014.png",
+    "第13章——法律法规和标准化/assets",
+    "第13章——法律法规和标准化",
+    "第12章——网络安全/assets",
+    "第12章——网络安全",
+    "第11章——面向对象技术(下午选做题）",
+    "第10章——UML建模（下午3题）/assets",
+    "第10章——UML建模（下午3题）",
+    "第9章——结构化开发方法（下午1题）/assets",
+    "第9章——结构化开发方法（下午1题）"
   ]
 }
